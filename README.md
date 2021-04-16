@@ -3,7 +3,7 @@ This repository contains code to calculate end-point error on Scene Flow dataset
 
 We have provided files that we made to calculate the end point error and visualizing the training loss. To know more please refer to this repository https://github.com/JiaRenChang/PSMNet.
 
-Before starting to work on the code read this blog post 
+Before starting to work on the code read this blog post https://medium.com/tu-delft-deep-learning-project/reproducing-pyramid-stereo-matching-an-advancement-in-disparity-image-generation-a91255ea1419
 
 ## File description
 * **reproduce.py**                    - Calculates the end point error
