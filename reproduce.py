@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 25 10:59:51 2021
-
-@author: Darshan
-"""
-
 from __future__ import print_function
 import argparse
 import torch
